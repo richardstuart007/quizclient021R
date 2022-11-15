@@ -4,7 +4,7 @@
 exports.REMOTE_CLIENT = 'REMOTE:9003'
 exports.REMOTE_SERVER = 'REMOTE:Railway/9001'
 exports.REMOTE_DATABASE = 'REMOTE:Railway/10'
-exports.REMOTE_SERVERURL = 'https://quizserver21r-production.up.railway.app'
+exports.REMOTE_SERVERURL = 'https://quizserver021-production.up.railway.app'
 //
 //  9003 - Local Client --> Remote Server --> Remote Database
 //
