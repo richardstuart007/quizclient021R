@@ -20,7 +20,7 @@ exports.LOC_LOC_REMOTE_SERVERURL = 'http://localhost:9001'
 //
 exports.LOC_LOC_LOC_CLIENT = 'LOCAL:8003'
 exports.LOC_LOC_LOC_SERVER = 'LOCAL:8001'
-exports.LOC_LOC_LOC_DATABASE = 'LOCAL/20'
+exports.LOC_LOC_LOC_DATABASE = 'LOCAL/21'
 exports.LOC_LOC_LOC_SERVERURL = 'http://localhost:8001'
 //
 //  Server details
