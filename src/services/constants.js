@@ -3,7 +3,7 @@
 //
 exports.REMOTE_CLIENT = 'REMOTE:9003'
 exports.REMOTE_SERVER = 'REMOTE:Railway/9001'
-exports.REMOTE_DATABASE = 'REMOTE:Railway/10'
+exports.REMOTE_DATABASE = 'REMOTE:Railway/21'
 exports.REMOTE_SERVERURL = 'https://quizserver021-production.up.railway.app'
 //
 //  9003 - Local Client --> Remote Server --> Remote Database
@@ -13,14 +13,14 @@ exports.LOC_REMOTE_REMOTE_CLIENT = 'LOCAL:9003'
 //  9013 - Local Client --> Local Server --> Remote Database
 //
 exports.LOC_LOC_REMOTE_CLIENT = 'LOCAL:9013'
-exports.LOC_LOC_REMOTE_SERVER = 'LOCAL:9001/10'
+exports.LOC_LOC_REMOTE_SERVER = 'LOCAL:9001/21'
 exports.LOC_LOC_REMOTE_SERVERURL = 'http://localhost:9001'
 //
 //  8003 - Local Client --> Local Server --> Local Database
 //
 exports.LOC_LOC_LOC_CLIENT = 'LOCAL:8003'
 exports.LOC_LOC_LOC_SERVER = 'LOCAL:8001'
-exports.LOC_LOC_LOC_DATABASE = 'LOCAL/10'
+exports.LOC_LOC_LOC_DATABASE = 'LOCAL/20'
 exports.LOC_LOC_LOC_SERVERURL = 'http://localhost:8001'
 //
 //  Server details
