@@ -1,9 +1,0 @@
-{
-  "short_name": "Bridge School 21",
-  "name": "Learning and Quiz",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
